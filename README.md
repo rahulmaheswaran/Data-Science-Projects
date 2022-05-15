@@ -1,8 +1,3 @@
-# Final Project
-## Due: 4th December, 2020 11:59pm ET
-
-Up until now, we have given you fairly detailed instructions for how to design data analyses to answer specific questions about data -- in particular, how to set up a particular analysis and what steps to take to run it. In this project, you will put that knowledge to use!
-
 Put yourself in the shoes of a data scientist being given a data set and asked to draw conclusions from it. Your job will be to understand what the data is showing you, design the analyses you need, justify those choices, draw conclusions from running the analyses, and explain why they do (or do not) make sense.
 
 We are deliberately not giving you detailed directions on how to solve these problems, but feel free to come to office hours and recitation hours to brainstorm.
